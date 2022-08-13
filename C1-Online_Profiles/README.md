@@ -9,12 +9,12 @@ For this assignment you will need to upload your resume and provide links to you
 ### GitHub
 Provide a link to your GitHub account here.
 
-Github [Github](https://github.com/laurageeding).
+My [Github](https://github.com/laurageeding).
  
 ### LinkedIn
 Provide a link to your LinkedIn account here.
 
-LinkedIn [LinkedIn](https://www.linkedin.com/in/laura-geeding-928708248/).
+My [LinkedIn](https://www.linkedin.com/in/laura-geeding-928708248/).
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
