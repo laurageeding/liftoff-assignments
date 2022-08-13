@@ -8,3 +8,5 @@ This assignment will get you set up and rolling with a basic project. By the end
 
 ### Project Repository
 Change this text with a link to your project repository here. Also add a README.md file to your project repository.
+
+Project located at [Github](https://github.com/August-2022-KC-LCW-LiftOff/recipe-app-group-jackie.git).
